@@ -1,30 +1,10 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+   _____      _              _       _              _____ _           _ _       _             _ 
+  / ____|    | |            | |     | |            / ____(_)         (_) |     | |           | |
+ | (___   ___| |__   ___  __| |_   _| | ___ _ __  | (___  _ _ __ ___  _| | __ _| |_ ___  _ __| |
+  \___ \ / __| '_ \ / _ \/ _` | | | | |/ _ \ '__|  \___ \| | '_ ` _ \| | |/ _` | __/ _ \| '__| |
+  ____) | (__| | | |  __/ (_| | |_| | |  __/ |     ____) | | | | | | | | | (_| | || (_) | |  |_|
+ |_____/ \___|_| |_|\___|\__,_|\__,_|_|\___|_|    |_____/|_|_| |_| |_|_|_|\__,_|\__\___/|_|  (_)
+                                                                                                
 
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started with C/C++, we have created some small hello world
-applications and a Makefile.
-
-Have a look at the files, and use the terminal to build them:
-
-    $ make
-    $ ./hello-c-world
-    $ ./hello-cpp-world
-
-We're sure you can take it from there. Go ahead and edit the code, 
-or add some new files. It's all up to you! 
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Simulates the job scheduling processes of a CPU. Uses the banker's algorithm to avoid dealocks.
