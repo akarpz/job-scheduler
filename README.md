@@ -1,10 +1,3 @@
-   _____      _              _       _              _____ _           _ _       _             _ 
-  / ____|    | |            | |     | |            / ____(_)         (_) |     | |           | |
- | (___   ___| |__   ___  __| |_   _| | ___ _ __  | (___  _ _ __ ___  _| | __ _| |_ ___  _ __| |
-  \___ \ / __| '_ \ / _ \/ _` | | | | |/ _ \ '__|  \___ \| | '_ ` _ \| | |/ _` | __/ _ \| '__| |
-  ____) | (__| | | |  __/ (_| | |_| | |  __/ |     ____) | | | | | | | | | (_| | || (_) | |  |_|
- |_____/ \___|_| |_|\___|\__,_|\__,_|_|\___|_|    |_____/|_|_| |_| |_|_|_|\__,_|\__\___/|_|  (_)
+#Job Scheduler
                                                                                                 
-
-
-Simulates the job scheduling processes of a CPU. Uses the banker's algorithm to avoid dealocks.
+Simulates the job scheduling processes of a CPU using round robin and appropriate resource management techniques. Uses the banker's algorithm to avoid dealocks. Queues are implemented as sorted linked lists.
